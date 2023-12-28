@@ -1,0 +1,1 @@
+import{_ as o}from"./VarsityLogo.a1b6a419.js";import{_ as s,t as n,v as a,x as c,z as r,a1 as _}from"./entry.4bef1064.js";const l={},d={class:"flex items-center justify-center py-5"};function f(e,i){const t=o;return n(),a("div",null,[c("div",d,[r(t)]),_(e.$slots,"default")])}const u=s(l,[["render",f]]);export{u as default};
