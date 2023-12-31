@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s,a as c}from"./entry.e1ade90e.js";const o=""+new URL("varsity.e904d288.png",import.meta.url).href,n={},_={class:"flex flex-col justify-center items-center gap-2"},r=c("img",{src:o,alt:"",class:"h-16"},null,-1),a=[r];function i(l,m){return t(),s("div",_,a)}const p=e(n,[["render",i]]);export{p as _};
