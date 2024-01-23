@@ -1,0 +1,1 @@
+import{_ as o}from"./VarsityLogo.5effa952.js";import{_ as c,o as n,c as a,a as e,b as r,aV as _}from"./entry.b261611c.js";const i={},d={class:"py-10 min-h-screen bg_image"},l={class:"flex items-center justify-center"};function m(t,f){const s=o;return n(),a("div",d,[e("div",null,[e("div",l,[r(s)])]),_(t.$slots,"default")])}const h=c(i,[["render",m]]);export{h as default};
